@@ -80,7 +80,8 @@
 @media screen and (max-width:576px)
 {
     .navbar,.nav-links
-    {
+    { 
+        display: flex;
         flex-direction:column;
     }
 }
