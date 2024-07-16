@@ -242,9 +242,9 @@ main >section{
         margin-left:20px; 
     }
     #experience-year{
-        margin: top 20px;
-        margin-left:60px;
-        /* margin-left:20px*/
+        margin-top: 20px;
+        margin-left:20px;
+        
     }
 }
 
@@ -265,9 +265,9 @@ main >section{
         justify-items: center;
     }
     #experience-year{
-        margin: top 20px;
-        margin-left:60px;
-        /* margin-left:20px*/
+        margin-top:20px;
+        margin-left:20px;
+       
     }
 }
   
