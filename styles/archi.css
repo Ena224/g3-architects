@@ -79,7 +79,7 @@
 /* responsive media query */
 @media screen and (max-widht:576px)
 {
-    .navbar,.nav-link
+    .navbar,.nav-link,.nav-item
     {
         flex-direction: column;
     }
